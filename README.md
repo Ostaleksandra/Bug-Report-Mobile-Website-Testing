@@ -1,4 +1,4 @@
-# Bug-Report-Website-Testing
+# Bug-Report-Mobile-Website-Testing
 Баг-репорт - тестирование мобильной версии сайта.
 
 ## Описание проекта
